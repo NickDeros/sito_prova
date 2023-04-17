@@ -12,6 +12,7 @@ const RouterLinks = () => {
             <Route path="/" element={<HomePage></HomePage>} />
             <Route path= "/home" element={<HomePage></HomePage>} />
             <Route path="/404" element={<ErrorPage></ErrorPage>} />
+            <Route path="/sito_prova/" element={<HomePage></HomePage>} />
             <Route path="*" element={<ErrorPage></ErrorPage>} />
           </Routes>
         </SmoothScroll>
