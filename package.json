@@ -4,7 +4,7 @@
   "description": "GBUx097uni",
   "author": "Nicolas De Rosa",
   "version": "1.0.0",
-  "main": "index.html",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@fancyapps/ui": "^4.0.31",
