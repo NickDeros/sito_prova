@@ -2,9 +2,9 @@
   "name": "gbux097uni",
   "homepage": "http://NickDeros.github.io/sito_prova/",
   "description": "GBUx097uni",
-  "author": "Websroad",
+  "author": "Nicolas De Rosa",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "private": true,
   "dependencies": {
     "@fancyapps/ui": "^4.0.31",
